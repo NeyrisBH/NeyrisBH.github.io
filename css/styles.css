@@ -204,7 +204,7 @@
     display: grid;
     grid-template-columns: 40% 30% 30%;
     padding: 40px;
-    column-gap: 30px;
+    column-gap: 5px;
 
 }
 
