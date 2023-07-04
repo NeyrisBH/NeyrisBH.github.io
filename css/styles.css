@@ -260,6 +260,7 @@
 
 .footer-grid3 .icons {
     cursor: pointer;
+    width: fit-content;
 }
 
 
